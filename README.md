@@ -4,4 +4,4 @@ Filip Duda internet page
 
 __narzedzia informatyczne assignment going well.__
 
-![Me right now.]()
+![__Me right now.__](celebration.jpg)
